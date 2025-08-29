@@ -23,6 +23,15 @@ They include ready-to-use functions for input handling, number operations, rando
 - Suitable for beginner and intermediate C++ projects.  
 
 ---
+## 👩‍💻 Author
+Esraa Fahad Alharbi
+📍 Al-Madina, Saudi Arabia
+💻 Passionate about C++ programming, data analysis, and AI
+
+[LinkedIn](https://www.linkedin.com/in/esra011a/)
+[GitHub](https://github.com/esra011a/)
+
+---
 
 ## 🚀 Example Usage
 
@@ -48,10 +57,3 @@ int main() {
     return 0;
 }
 
-## 👩‍💻 Author
-Esraa Fahad Alharbi
-📍 Al-Madina, Saudi Arabia
-💻 Passionate about C++ programming, data analysis, and AI
-
-[LinkedIn](https://www.linkedin.com/in/esra011a/)
-[GitHub](https://github.com/esra011a/)
