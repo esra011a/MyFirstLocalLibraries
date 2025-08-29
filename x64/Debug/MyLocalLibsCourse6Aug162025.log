@@ -1,0 +1,9 @@
+﻿  MyLocalLibsCourse6Aug162025.cpp
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Numbers.h(11,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Numbers.h(30,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Generators.h(77,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Generators.h(78,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Readers.h(64,22): warning C4101: 'WhatToSum': unreferenced local variable
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Generators.h(49): warning C4715: 'Generators::GetRandomCharacter': not all control paths return a value
+C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\Readers.h(78): warning C4715: 'Readers::ReadWhatToSum': not all control paths return a value
+  MyLocalLibsCourse6Aug162025.vcxproj -> C:\Users\96655\Downloads\VS projects\MyLocalLibsCourse6Aug162025\x64\Debug\MyLocalLibsCourse6Aug162025.exe
